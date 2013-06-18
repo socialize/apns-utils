@@ -17,7 +17,7 @@ setup(
     author_email='ccbean@gmail.com',
     url='https://github.com/socialize/apns-utils',
     description='Python client for Apple Push Notification service (APNs)',
-    long_description=read('README.rst'),
+    long_description="Fork of https://bitbucket.org/sardarnl/apns-client/",
     packages=['apnsclient'],
     license="Apache 2.0",
     keywords='apns push notification apple messaging iOS',
